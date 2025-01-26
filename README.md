@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning software engineering, cloud computing and computer networks.
+- 🔭 I’m currently working on getting Git, AWS and CCNA certifications.
