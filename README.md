@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning software engineering, cloud computing and computer networks.
 - 🔭 I’m currently working on getting Git, AWS and CCNA certifications.
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="09730fad-f9cf-40b5-99e6-828810de2f48" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
