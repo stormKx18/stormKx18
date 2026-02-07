@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning software engineering, cloud computing and computer networks.
-- 🔭 I’m currently working on getting Git, AWS and CCNA certifications.
+- 🌱 I am a Software Engineer dedicated to building scalable, secure, and efficient systems. 
+- 🔭 Currently, I’m deepening my expertise at the intersection of development and infrastructure.
 
